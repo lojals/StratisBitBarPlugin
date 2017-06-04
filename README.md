@@ -1,6 +1,7 @@
 # StratisBitBarPlugin
 This is a Stratis [BitBar](https://getbitbar.com) plugin.
-<img width="267" alt="screen shot 2017-06-03 at 8 01 07 pm" src="https://cloud.githubusercontent.com/assets/6756995/26758031/90dacdda-4897-11e7-94f2-3efdda119746.png">
+
+![Preview](https://cloud.githubusercontent.com/assets/6756995/26758031/90dacdda-4897-11e7-94f2-3efdda119746.png)
 
 
 ### How to use it.
